@@ -1,0 +1,15 @@
+{
+  "keys": [
+    {
+      "alg": "RS256",
+      "e": "AQAB",
+      "key_ops": [],
+      "kid": "netsmart-2026-key-01",
+      "kty": "RSA",
+      "n": "rx-l-KqvnXKqk51Nzrx4DPQLyzA-4pfZTHPm9nPFP98ThPewGVbCylS8LgiC6Rm_qKIM8dZ6t1_4B9GwoWjE8BHXiqutUYwM1A7r28yw7cphBJ5kG35lLKmieRXF-cxk5UhvyquFEi_x1wjGiPpyyhKsRFPElARhIeHvM5KYcVU5MTOLtZXCmpXkmGiqbuIyDetqBnAlJF0DA3Vijf3r_YYYlKBulFPuZfg7FEfku4BguE7VjnHJo4VXC22okiCKNNE5eTc7YvqXR-oOsgPH5UzMxocZVlu9OTWqstDeWerPTg_bQ2Dev048-ZyvBMl35OZBw_-wOZhcZ1Yqr4yxzQ",
+      "oth": [],
+      "use": "sig",
+      "x5c": []
+    }
+  ]
+}
